@@ -1,5 +1,5 @@
-### Gophercises:
-##### Exercise 1: Quiz Game
+## Quiz Game:
+##### Gophercises - Exercise 1
 
 `This is the exercise for Golang from gophercises.com`
 
@@ -22,7 +22,7 @@
 ---
 <br>
 
-**Objective**:
+**What's this**:
 - Read from a csv file (default problems.csv)
 - Set a time out in seconds to end the quiz (default 30 seconds)
 - Read flags from CLI (-csv and -limit)
