@@ -12,6 +12,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://linkedin.com/in/timothy0707/)
 [![Build status](https://ci.appveyor.com/api/projects/status/y17k0s0nufoipj57/branch/master?svg=true)](https://ci.appveyor.com/project/ttimt/quizgame/branch/master)
 ![GitHub top language](https://img.shields.io/github/languages/top/ttimt/QuizGame)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ttimt/QuizGame)](https://goreportcard.com/report/github.com/ttimt/QuizGame)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ttimt/QuizGame)
 ![GitHub issues](https://img.shields.io/github/issues/ttimt/QuizGame)
 ![GitHub contributors](https://img.shields.io/github/contributors/ttimt/QuizGame)
